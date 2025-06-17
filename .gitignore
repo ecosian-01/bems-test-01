@@ -48,17 +48,6 @@ ENV/
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Java
-*.class
-*.jar
-*.war
-*.ear
-*.log
-*.ctxt
-.mtj.tmp/
-hs_err_pid*
-target/
-
 # Gradle
 # .gradle/
 # gradle/
@@ -98,7 +87,7 @@ pip-delete-this-directory.txt
 
 # Java
 *.class
-*.jar
+# *.jar
 *.war
 *.ear
 *.log
