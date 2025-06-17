@@ -60,10 +60,10 @@ hs_err_pid*
 target/
 
 # Gradle
-.gradle/
-gradle/
-!gradle/wrapper/gradle-wrapper.jar
-!gradle/wrapper/gradle-wrapper.properties
+# .gradle/
+# gradle/
+# !gradle/wrapper/gradle-wrapper.jar
+# !gradle/wrapper/gradle-wrapper.properties
 
 # Misc
 .env.local
